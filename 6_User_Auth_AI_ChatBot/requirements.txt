@@ -1,0 +1,9 @@
+streamlit 
+pymongo
+langchain 
+langchain-openai 
+langgraph 
+langgraph-checkpoint
+langgraph-checkpoint-redis
+dotenv
+python-dotenv
